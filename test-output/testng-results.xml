@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-15T23:25:58 CST" name="TestSuite" finished-at="2021-02-15T23:25:58 CST" duration-ms="70">
+    <groups>
+    </groups>
+    <test started-at="2021-02-15T23:25:58 CST" name="Regression Chrome" finished-at="2021-02-15T23:25:58 CST" duration-ms="70">
+      <class name="com.jostens.qa.testcases.CheckoutPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.jostens.qa.testcases.CheckoutPageTest@3315d2d7]" started-at="2021-02-15T23:25:58 CST" name="beforeClass" finished-at="2021-02-15T23:25:58 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="checkoutListVerification()[pri:0, instance:com.jostens.qa.testcases.CheckoutPageTest@3315d2d7]" started-at="2021-02-15T23:25:58 CST" name="checkoutListVerification" finished-at="2021-02-15T23:25:58 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutListVerification -->
+        <test-method signature="proceedWithCheckout()[pri:0, instance:com.jostens.qa.testcases.CheckoutPageTest@3315d2d7]" started-at="2021-02-15T23:25:58 CST" name="proceedWithCheckout" finished-at="2021-02-15T23:25:58 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedWithCheckout -->
+      </class> <!-- com.jostens.qa.testcases.CheckoutPageTest -->
+      <class name="com.jostens.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.jostens.qa.testcases.LoginPageTest@13b13b5d]" started-at="2021-02-15T23:25:58 CST" name="beforeClass" finished-at="2021-02-15T23:25:58 CST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="login()[pri:0, instance:com.jostens.qa.testcases.LoginPageTest@13b13b5d]" started-at="2021-02-15T23:25:58 CST" name="login" finished-at="2021-02-15T23:25:58 CST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.jostens.qa.testcases.LoginPageTest -->
+      <class name="com.jostens.qa.testcases.PaymentPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.jostens.qa.testcases.PaymentPageTest@d6e7bab]" started-at="2021-02-15T23:25:58 CST" name="beforeClass" finished-at="2021-02-15T23:25:58 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="paymentPageTest()[pri:0, instance:com.jostens.qa.testcases.PaymentPageTest@d6e7bab]" started-at="2021-02-15T23:25:58 CST" name="paymentPageTest" finished-at="2021-02-15T23:25:58 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentPageTest -->
+      </class> <!-- com.jostens.qa.testcases.PaymentPageTest -->
+      <class name="com.jostens.qa.testcases.SearchSchoolPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.jostens.qa.testcases.SearchSchoolPageTest@2892dae4]" started-at="2021-02-15T23:25:58 CST" name="beforeClass" finished-at="2021-02-15T23:25:58 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="searchSchoolTest()[pri:0, instance:com.jostens.qa.testcases.SearchSchoolPageTest@2892dae4]" started-at="2021-02-15T23:25:58 CST" name="searchSchoolTest" finished-at="2021-02-15T23:25:58 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSchoolTest -->
+      </class> <!-- com.jostens.qa.testcases.SearchSchoolPageTest -->
+      <class name="com.jostens.qa.testcases.ShoppingCartPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.jostens.qa.testcases.ShoppingCartPageTest@29647f75]" started-at="2021-02-15T23:25:58 CST" name="beforeClass" finished-at="2021-02-15T23:25:58 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="addProductToCartTest()[pri:0, instance:com.jostens.qa.testcases.ShoppingCartPageTest@29647f75]" started-at="2021-02-15T23:25:58 CST" name="addProductToCartTest" finished-at="2021-02-15T23:25:58 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCartTest -->
+      </class> <!-- com.jostens.qa.testcases.ShoppingCartPageTest -->
+      <class name="com.jostens.qa.testcases.ProductDetailPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.jostens.qa.testcases.ProductDetailPageTest@355ce81c]" started-at="2021-02-15T23:25:58 CST" name="beforeClass" finished-at="2021-02-15T23:25:58 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="productTest()[pri:0, instance:com.jostens.qa.testcases.ProductDetailPageTest@355ce81c]" started-at="2021-02-15T23:25:58 CST" name="productTest" finished-at="2021-02-15T23:25:58 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productTest -->
+      </class> <!-- com.jostens.qa.testcases.ProductDetailPageTest -->
+    </test> <!-- Regression Chrome -->
+  </suite> <!-- TestSuite -->
+</testng-results>
